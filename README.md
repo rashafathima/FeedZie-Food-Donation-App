@@ -9,6 +9,15 @@ is targeted in two ways, it benefits the user who is donating the food and the p
 an organization that is claiming the food.
 </div>
 
+## Specification
+<div align="justify">
+* Programming Languages : Java, XML
+* Database : SQLite
+* Platform : Android Studio
+* Hardware Specification : i5 Processsor, 8GB RAM, 1TB Hardisk
+* Operating System : Windows 10
+</div>
+
 
 ## Some screenshots of the Application: 
 <p align="center" float="left">
