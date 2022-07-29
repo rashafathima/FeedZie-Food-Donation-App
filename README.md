@@ -1,4 +1,4 @@
-# FeedZie
+# FeedZie - A Food Donation App
 
 ## Introduction
 <div align="justify">
