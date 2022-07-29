@@ -11,7 +11,9 @@ an organization that is claiming the food.
 
 ## Specification
 <div align="justify">
+  
 * Programming Languages : Java, XML<br>
+  
 * Database : SQLite
 
 * Platform : Android Studio
